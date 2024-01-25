@@ -120,7 +120,7 @@ Results of the comparaisons between the text generated and the ground truth:
 
 ## Conclusion 
 
-ChatGPT showed some promising results from transforming statistical descriptions of remote sensing images into sentences. However for future works, we should try different U-Net to see if the results of the IoU as we saw the semantic segmentation model is the maj structure here, if we have a bad training then we can't generalize and have good statistical image understanding and hence good text generation. In the future directions we can add several adjustements such has improving the u-net model, or considering an another architecture. Also we can try different type of metric to compare the generated text against the reference (ROUGE for example) .
+ChatGPT showed some promising results from transforming statistical descriptions of remote sensing images into sentences. We saw that the semantic segmentation model is the major structure, if we have a bad training then we can't generalize and have good statistical image understanding and hence good text generation. In the future directions we can add several adjustements such has improving the u-net model, or considering an another architecture. Also we can try different type of metric to compare the generated text against the reference (ROUGE for example) .
 
 ## References 
 
