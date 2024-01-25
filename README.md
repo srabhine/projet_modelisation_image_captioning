@@ -1,6 +1,6 @@
 ## This repository is an implementation of the paper "Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models" 
 
-Disclaimer: If you want more precision about the code I have commented all the steps 
+Disclaimer: If you want more precision about the code I have commented all the steps in the notebook 
 
 ## Introduction 
 
