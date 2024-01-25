@@ -81,18 +81,35 @@ The extracted statistical information was fed with controlled prompts into the C
 
 In evaluating the performance of machine learning models, particularly in the realms of computer vision and natural language processing, two metrics is used in this paper: Intersection over Union (IoU) and BLEU score. 
 
+### IoU
+
 IoU is a common metric used in object detection tasks to quantify the accuracy of a predicted bounding box against the ground truth. It is calculated as the area of overlap between the predicted bounding box and the ground truth bounding box divided by the area of union of these two boxes. This metric effectively measures how well the model's prediction aligns with the actual object's location in an image. 
+
 
 <div align="center">
   <img width="493" alt="image" src="https://github.com/srabhine/projet_modelisation_image_captioning/assets/45555197/edce1285-5eba-41b4-8408-964aff334a8b">
 </div>
 
 
+<div align="center">
+  Figure 2: Formula of Intersection over Union
+</div>
+
+
+### BLEU Score
 
 On the other hand, the BLEU score, or the Bilingual Evaluation Understudy score, is widely used in evaluating machine translation models. It measures the correspondence between a machine's output and that of a human translator, focusing on the precision of word choice and order in sentences. The BLEU score does this by comparing the n-gram overlap between the machine-generated text and a set of reference translations, thus giving an indication of the translation's quality and fluency.
 
+
+
 <div align="center">
   <img width="493" alt="image" src="https://github.com/srabhine/projet_modelisation_image_captioning/assets/45555197/934676f7-23f4-438a-9963-ec77f6b8ec9ab">
+</div>
+
+
+
+<div align="center">
+  Figure 3: Formula of the BLEU score
 </div>
 
 ## Results
