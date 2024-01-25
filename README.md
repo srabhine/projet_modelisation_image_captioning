@@ -1,5 +1,3 @@
-# projet_modelisation_image_captioning
-
 ## This repository is an implementation of the paper "Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models" 
 
 ## Introduction 
