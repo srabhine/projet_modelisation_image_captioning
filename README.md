@@ -1,5 +1,7 @@
 ## This repository is an implementation of the paper "Towards Unsupervised Remote Sensing Image Captioning and Retrieval with Pre-Trained Language Models" 
 
+Disclaimer: If you want more precision about the code I have commented all the steps 
+
 ## Introduction 
 
 Recent improvements in remote sensing technology have led to an unprecedented growth in the applications of Remote Sensing Images (RSI) for Geo-spatial Information
